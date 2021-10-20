@@ -41,7 +41,7 @@ C∞lWallet (CoolWallet) https://www.coolwallet.io/
 Cobo Vault https://cobo.com/about?locale=en 
 Cold Card Wallet	https://coldcardwallet.com/  
 Ellipal	https://www.ellipal.com/  
-JuBiter Blade https://www.ftsafe.com/store/product/cryptocurrency-wallet/
-SafeWize CoinSafe https://safewise.io/#/home
-Husky HDW20 https://www.huskywallet.com
-SFP SafePal https://safepal.io
+JuBiter Blade https://www.ftsafe.com/store/product/cryptocurrency-wallet/  
+SafeWize CoinSafe https://safewise.io/#/home  
+Husky HDW20 https://www.huskywallet.com  
+SFP SafePal https://safepal.io  

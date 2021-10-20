@@ -38,7 +38,7 @@ Trezor	https://trezor.io/
 Keepkey	https://shapeshift.com/keepkey  
 BitBox	https://shiftcrypto.ch/  
 C∞lWallet (CoolWallet) https://www.coolwallet.io/  
-Cobo Vault https://cobo.com/about?locale=en 
+Cobo Vault https://cobo.com/about?locale=en  
 Cold Card Wallet	https://coldcardwallet.com/  
 Ellipal	https://www.ellipal.com/  
 JuBiter Blade https://www.ftsafe.com/store/product/cryptocurrency-wallet/  

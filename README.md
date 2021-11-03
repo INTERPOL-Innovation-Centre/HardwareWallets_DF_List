@@ -18,6 +18,7 @@ List is provided as best-effort and is not exhaustive.
 | 1209 | 53c1 | SatoshiLabs  | Trezor v2                  | [Github](https://github.com/trezor/trezor-suite/blob/130b17ff0d52b67079d29b4e7250637528be1def/packages/suite-native/android/app/src/main/res/xml/devices.xml) |
 | 2b24 | All  | KeepKey      | Bitcoin Wallet             | [Linux-usb.org](http://www.linux-usb.org/usb.ids) |
 | 2c97 | All  | Ledger       | Ledger Nano S, X and Blue  | [Linux-usb.org](http://www.linux-usb.org/usb.ids) |
+| 2f48 | 2130 | D'CENT       | Biometric Wallet           | [Github](https://github.com/DcentWallet/user-manual/blob/95a219e02c966f05a3d97b03404bef106580df10/biometric-wallet/firmware-update/firmware-trouble-shooting-windows.md) |
 | 534c | 0001 | SatoshiLabs  | Trezor v1                  | [Github](https://github.com/trezor/trezor-suite/blob/130b17ff0d52b67079d29b4e7250637528be1def/packages/suite-native/android/app/src/main/res/xml/devices.xml) |
 | d13e | cc10 | CoinKite     | ColdCard                   | [Github](https://github.com/Coldcard/firmware/search?q=pid) |
 
@@ -44,4 +45,5 @@ Ellipal	https://www.ellipal.com/
 JuBiter Blade https://www.ftsafe.com/store/product/cryptocurrency-wallet/  
 SafeWize CoinSafe https://safewise.io/#/home  
 Husky HDW20 https://www.huskywallet.com  
-SFP SafePal https://safepal.io  
+SFP SafePal https://safepal.io
+D'CENT https://dcentwallet.com

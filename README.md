@@ -45,5 +45,5 @@ Ellipal	https://www.ellipal.com/
 JuBiter Blade https://www.ftsafe.com/store/product/cryptocurrency-wallet/  
 SafeWize CoinSafe https://safewise.io/#/home  
 Husky HDW20 https://www.huskywallet.com  
-SFP SafePal https://safepal.io
+SFP SafePal https://safepal.io  
 D'CENT https://dcentwallet.com

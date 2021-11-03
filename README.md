@@ -16,15 +16,18 @@ List is provided as best-effort and is not exhaustive.
 | 1209 | d00d | Generic      | Monero Hardware developer  | [Linux-usb.org](http://www.linux-usb.org/usb.ids) |
 | 1209 | 53c0 | SatoshiLabs  | Trezor v2 bootloader       | [Github](https://github.com/trezor/trezor-suite/blob/130b17ff0d52b67079d29b4e7250637528be1def/packages/suite-native/android/app/src/main/res/xml/devices.xml) |
 | 1209 | 53c1 | SatoshiLabs  | Trezor v2                  | [Github](https://github.com/trezor/trezor-suite/blob/130b17ff0d52b67079d29b4e7250637528be1def/packages/suite-native/android/app/src/main/res/xml/devices.xml) |
+| 1209 | 9998 | Opolo        | Cosmos Bootloader          | [pid.codes](https://pid.codes/1209/) |
+| 1209 | 9999 | Opolo        | Cosmos Firmware            | [pid.codes](https://pid.codes/1209/) |
 | 2b24 | All  | KeepKey      | Bitcoin Wallet             | [Linux-usb.org](http://www.linux-usb.org/usb.ids) |
 | 2c97 | All  | Ledger       | Ledger Nano S, X and Blue  | [Linux-usb.org](http://www.linux-usb.org/usb.ids) |
 | 2f48 | 2130 | D'CENT       | Biometric Wallet           | [Github](https://github.com/DcentWallet/user-manual/blob/95a219e02c966f05a3d97b03404bef106580df10/biometric-wallet/firmware-update/firmware-trouble-shooting-windows.md) |
 | 534c | 0001 | SatoshiLabs  | Trezor v1                  | [Github](https://github.com/trezor/trezor-suite/blob/130b17ff0d52b67079d29b4e7250637528be1def/packages/suite-native/android/app/src/main/res/xml/devices.xml) |
 | d13e | cc10 | CoinKite     | ColdCard                   | [Github](https://github.com/Coldcard/firmware/search?q=pid) |
 
-### Missing - further research required
+### Missing or further research required
 - SafePal Ltd. Officially backed-up by Binance. Product: SFP SafePal S1
 - SecuX Technology Inc., Taiwan. Products: W10, W20, V20 Stone
+- Opolo Inc., Hong-Kong and Opolo SARL, Luxembourg. Product: Cosmos. May appear as Interbiometrics (_VID 1209 and _PID 0x1000 to 0x1FFF)  
 
 ### Specific no-USB HD Wallets
 - Embedded Agency LLC, Canada and USA. Product: Husky HDW20 - This HD Wallet is only using Wifi, including for OTA Firmware update (Over-The-Air)
@@ -32,6 +35,9 @@ List is provided as best-effort and is not exhaustive.
 - Ellipal Ltd., Hong-Kong. Products: EC01 and Titan Cold Wallet. This is an air-gapped wallet. The Firmware update is done via micro SD card inserted in a seperate "security module". The micro-USB port of the security module is only for charging
 - C∞lBitX (CoolBitx), Taiwan. Products: CoolWallet S and WoolWallet Pro. These are Bluetooth only cards, uses NFC to charge. CoolBitX is also the creator of the Sygna Bridge, a compliance tool used as a gateway for the exchange and querying of data accross Financial actors
 - CoinKite Inc., Canada. Products: OpenDime and ColdCard. Although these are air-gapped cards, the ColdCard Firmware update is done in DFU mode via USB
+
+### Related hardware
+- Axell Corporation, Japan. Product: VIPPool Wallet. Sometimes mentioned as "a cold wallet for transfers" but our research tends to show theses are not cold wallets but licensing USB sticks also manufactured by Axell Corporation, Japan as product "[Shalo](https://shalo.jp)". \_VID and \_PID information not found.
 
 ### Links
 Ledger	https://www.ledger.com/  
@@ -46,4 +52,6 @@ JuBiter Blade https://www.ftsafe.com/store/product/cryptocurrency-wallet/
 SafeWize CoinSafe https://safewise.io/#/home  
 Husky HDW20 https://www.huskywallet.com  
 SFP SafePal https://safepal.io  
-D'CENT https://dcentwallet.com
+D'CENT https://dcentwallet.com  
+Opolo https://opolo.io  
+Axell https://www.axell.co.jp  

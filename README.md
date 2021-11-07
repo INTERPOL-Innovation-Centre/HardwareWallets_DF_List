@@ -28,6 +28,7 @@ List is provided as best-effort and is not exhaustive.
 - SafePal Ltd. Officially backed-up by Binance. Product: SFP SafePal S1
 - SecuX Technology Inc., Taiwan. Products: W10, W20, V20 Stone
 - Opolo Inc., Hong-Kong and Opolo SARL, Luxembourg. Product: Cosmos. May appear as Interbiometrics (_VID 1209 and _PID 0x1000 to 0x1FFF)  
+- Ngrave.IO NV, Belgium. Product: Zero. Is air-gapped but does have a USB-C for charging and firmware update.
 
 ### Specific no-USB HD Wallets
 - Embedded Agency LLC, Canada and USA. Product: Husky HDW20 - This HD Wallet is only using Wifi, including for OTA Firmware update (Over-The-Air)
@@ -53,5 +54,22 @@ SafeWize CoinSafe https://safewise.io/#/home
 Husky HDW20 https://www.huskywallet.com  
 SFP SafePal https://safepal.io  
 D'CENT https://dcentwallet.com  
-Opolo https://opolo.io  
-Axell https://www.axell.co.jp  
+Cosmos https://opolo.io  
+VIPPool Wallet https://www.axell.co.jp  
+Zero https://www.ngrave.io 
+W10, W20, V20 Stone https://secuxtech.com
+
+### Pictures
+All images from manufacturer website (Link above).  
+| Brand | Model |
+| :-------- | :--: |
+| NGRAVE | ![NGRAVE Zero Hardware Wallet](Images/NGRAVE-Zero.png) <br/> NGrave Zero |
+| LEDGER | ![Ledger Nano S](Images/LEDGER-Nano-S.png) <br/> Nano S |
+| LEDGER | ![Ledger Nano X](Images/LEDGER-Nano-X.png) <br/> Nano X |
+| LEDGER | ![Ledger Nano Blue](Images/LEDGER-Nano-Blue.png) <br/> Nano Blue |
+| TREZOR | ![Trezor One](Images/TREZOR-Model-One.png) <br/> Model One |
+| TREZOR | ![Trezor T](Images/TREZOR-Model-T.png) <br/> Model T or "v2" |
+| SecuX | ![SecuX W10](Images/SECUX-W10.png) <br/> W10 |
+| SecuX | ![SecuX W20](Images/SECUX-W20.png) <br/> W20 |
+| SecuX | ![SecuX V20](Images/SECUX-V20.png) <br/> V20 Front ![SecuX V20](Images/SECUX-V20-Back.png) <br/> V20 Back |
+| ShapeShift | ![KeepKey](Images/SHAPESHIFT-KeepKey.png) <br/> KeepKey |

@@ -56,7 +56,7 @@ SFP SafePal https://safepal.io
 D'CENT https://dcentwallet.com  
 Cosmos https://opolo.io  
 VIPPool Wallet https://www.axell.co.jp  
-Zero https://www.ngrave.io 
+Zero https://www.ngrave.io  
 W10, W20, V20 Stone https://secuxtech.com
 
 ### Pictures
@@ -71,5 +71,5 @@ All images from manufacturer website (Link above).
 | TREZOR | ![Trezor T](Images/TREZOR-Model-T.png) <br/> Model T or "v2" |
 | SecuX | ![SecuX W10](Images/SECUX-W10.png) <br/> W10 |
 | SecuX | ![SecuX W20](Images/SECUX-W20.png) <br/> W20 |
-| SecuX | ![SecuX V20](Images/SECUX-V20.png) <br/> V20 Front ![SecuX V20](Images/SECUX-V20-Back.png) <br/> V20 Back |
+| SecuX | ![SecuX V20](Images/SECUX-V20.png) <br/> V20 Front <br/> ![SecuX V20](Images/SECUX-V20-Back.png) <br/> V20 Back |
 | ShapeShift | ![KeepKey](Images/SHAPESHIFT-KeepKey.png) <br/> KeepKey |

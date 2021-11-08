@@ -11,10 +11,9 @@ Forensics examiners may use this list to identify if such a device has been seen
 
 | _VID(0x) | _PID(0x) | Vendor name | Device desc. | Attribution URI |
 | :------- | :------- | :----------- | :---------- | --------------- |
-| 03eb | 2402  | ShiftCrypto | BitBox01 (DigitalBitBox)  | [shiftcrypto.com](https://shiftcrypto.support/help/en-us/9-troubleshooting/15-usb-connection-issues-my-bitbox02-is-not-detected) |
-| 03eb | 2403  | ShiftCrypto | BitBox02                  | [shiftcrypto.com](https://shiftcrypto.support/help/en-us/9-troubleshooting/15-usb-connection-issues-my-bitbox02-is-not-detected) |
+| 03eb | 2402 | ShiftCrypto  | BitBox01 (DigitalBitBox)   | [shiftcrypto.com](https://shiftcrypto.support/help/en-us/9-troubleshooting/15-usb-connection-issues-my-bitbox02-is-not-detected) |
+| 03eb | 2403 | ShiftCrypto  | BitBox02                   | [shiftcrypto.com](https://shiftcrypto.support/help/en-us/9-troubleshooting/15-usb-connection-issues-my-bitbox02-is-not-detected) |
 | 096e | 0891 | Feitian Tech | JuBiter Blade              | [Github](https://github.com/search?q=user%3AJubiterWallet+VID&type=code) |
-| 1209 | 7551 | Generic      | OpenDime DAFU bootloader   | [Github](https://github.com/opendime/DAFU/blob/master/Makefile) |
 | 1209 | aaaa | Prokey       | Optimum                    | [Github](https://github.com/prokey-io/prokey-optimum-firmware/blob/a0ad6a323a4e51dd1d2d09d7e2786b6f5c65d575/firmware/usb.c) |
 | 1209 | abba | Generic      | SafeWISE CoinSafe          | [Linux-usb.org](http://www.linux-usb.org/usb.ids) |
 | 1209 | b0b0 | Generic      | Monero Hardware bootloader | [Linux-usb.org](http://www.linux-usb.org/usb.ids) |
@@ -24,6 +23,7 @@ Forensics examiners may use this list to identify if such a device has been seen
 | 1209 | 53c1 | SatoshiLabs  | Trezor v2                  | [Github](https://github.com/trezor/trezor-suite/blob/130b17ff0d52b67079d29b4e7250637528be1def/packages/suite-native/android/app/src/main/res/xml/devices.xml) |
 | 1209 | 7000 | Secalot      | Secalot Dongle             | [secalot.com/downloads/ HID Rules](https://s3.eu-central-1.amazonaws.com/secalot.com/99-hid.rules) |
 | 1209 | 7001 | Secalot      | Secalot Bootloader         | [secalot.com/downloads/ HID Rules](https://s3.eu-central-1.amazonaws.com/secalot.com/99-hid.rules) |
+| 1209 | 7551 | Generic      | OpenDime DAFU bootloader   | [Github](https://github.com/opendime/DAFU/blob/master/Makefile) |
 | 1209 | 9998 | Opolo        | Cosmos Bootloader          | [pid.codes](https://pid.codes/1209/) |
 | 1209 | 9999 | Opolo        | Cosmos Firmware            | [pid.codes](https://pid.codes/1209/) |
 | 2341 | 003d | Bitlox       | Ultimate aka lockbox 3A8C  | [Github](https://github.com/BitLox/bitlox-firmware/blob/074f009b5052b3df0c7f562649d393cfaa3e1dd1/.settings/org.eclipse.cdt.core.prefs) |
@@ -107,7 +107,7 @@ D'CENT https://dcentwallet.com
 Cosmos https://opolo.io  
 VIPPool Wallet https://www.axell.co.jp  
 Zero https://www.ngrave.io  
-W10, W20, V20 Stone https://secuxtech.com
-Ultimate https://www.bitlox.com
-Optimum https://prokey.io
-Dongle https://www.secalot.com
+W10, W20, V20 Stone https://secuxtech.com  
+Ultimate https://www.bitlox.com  
+Optimum https://prokey.io  
+Dongle https://www.secalot.com  

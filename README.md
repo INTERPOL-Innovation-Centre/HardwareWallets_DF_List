@@ -34,7 +34,7 @@ List is provided as best-effort and is not exhaustive.
 - Embedded Agency LLC, Canada and USA. Product: Husky HDW20 - This HD Wallet is only using Wifi, including for OTA Firmware update (Over-The-Air)
 - Cobo Global Ltd, Cayman Islands. Products: Keystone Essential, Keystone Pro - Cobo Vault is an open source air-gapped HD wallet. It is not using USB (other than for Firmware burning). Cobo Vault uses QRcodes only. Its hardware is based on an ARM Cortex A7. Refer to [Github](https://github.com/CoboVault/cobo-vault-docs/tree/master/hardware)
 - Ellipal Ltd., Hong-Kong. Products: EC01 and Titan Cold Wallet. This is an air-gapped wallet. The Firmware update is done via micro SD card inserted in a seperate "security module". The micro-USB port of the security module is only for charging
-- C∞lBitX (CoolBitx), Taiwan. Products: CoolWallet S and WoolWallet Pro. These are Bluetooth only cards, uses NFC to charge. CoolBitX is also the creator of the Sygna Bridge, a compliance tool used as a gateway for the exchange and querying of data accross Financial actors
+- C∞lBitX (CoolBitx), Taiwan. Products: CoolWallet S and CoolWallet Pro. These are Bluetooth only cards, uses NFC to charge. CoolBitX is also the creator of the Sygna Bridge, a compliance tool used as a gateway for the exchange and querying of data accross Financial actors
 - CoinKite Inc., Canada. Products: OpenDime and ColdCard. Although these are air-gapped cards, the ColdCard Firmware update is done in DFU mode via USB
 
 ### Related hardware
@@ -60,7 +60,9 @@ Zero https://www.ngrave.io
 W10, W20, V20 Stone https://secuxtech.com
 
 ### Pictures
-All images from manufacturer website (Link above).  
+The below are images from manufacturer website (links above).
+Provided here for examiners who may have to search a scene for exhibits.  
+  
 | Brand | Model |
 | :-------- | :--: |
 | NGRAVE | ![NGRAVE Zero Hardware Wallet](Images/NGRAVE-Zero.png) <br/> NGrave Zero |
@@ -73,3 +75,10 @@ All images from manufacturer website (Link above).
 | SecuX | ![SecuX W20](Images/SECUX-W20.png) <br/> W20 |
 | SecuX | ![SecuX V20](Images/SECUX-V20.png) <br/> V20 Front <br/> ![SecuX V20](Images/SECUX-V20-Back.png) <br/> V20 Back |
 | ShapeShift | ![KeepKey](Images/SHAPESHIFT-KeepKey.png) <br/> KeepKey |
+| ShiftCrypto | ![BitBox01](Images/SHIFTCRYPTO-Bitbox01.png) <br/> BitBox 01 aka Digital BitBox |
+| ShiftCrypto | ![BitBox01](Images/SHIFTCRYPTO-Bitbox02.png) <br/> BitBox 02 |
+| CoolBitX | ![CoolWallet S](Images/COOLBITX-Coolwallet-S.png) <br/> CoolWallet S (OKEX branded, but could be Binance and others)|
+| CoolBitX | ![CoolWallet Pro](Images/COOLBITX-Coolwallet-Pro.png) <br/> CoolWallet Pro (Crypto.com branded) |
+| Cobo Global | ![Cobo Vault Pro and Essential](Images/COBO-Vault-Pro.png) <br/> Cobo Vault Pro and Essential (aka Keystone Pro) |
+| Coinkite | ![Coldcard](Images/COINKITE-Coldcard.png) <br/> Coldcard |
+| Coinkite | ![OpenDime](Images/COINKITE-OpenDime.png) <br/> OpenDime |

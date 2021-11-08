@@ -86,6 +86,7 @@ Provided here for examiners who may have to search a scene for exhibits.
 | Bitlox | ![Ultimate](Images/BITLOX-Ultimate.png) <br/> Ultimate |
 | Prokey | ![Optimum](Images/PROKEY-Optimum.png) <br/> Optimum |
 | Secalot | ![Dongle](Images/SECALOT-Dongle.png) <br/> Dongle |
+| Feitian | ![JuBiter Blade](Images/FEITIAN-Jubiter-Blade.png) <br/> JuBiter Blade |
 
 ### Sources
 

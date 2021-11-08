@@ -34,8 +34,9 @@ Forensics examiners may use this list to identify if such a device has been seen
 | 2581 | 4b7c | Ledger       | HW1                        | [Github](https://github.com/LedgerHQ/ledger-starter-iso/blob/b5f02dcf3c7388717a6decdc98afe26a9a54b011/README.md) |
 | 2581 | 1807 | Ledger       | HW1                        | [Github](https://github.com/LedgerHQ/ledger-starter-iso/blob/b5f02dcf3c7388717a6decdc98afe26a9a54b011/README.md) |
 | 2581 | 1808 | Ledger       | HW1                        | [Github](https://github.com/LedgerHQ/ledger-starter-iso/blob/b5f02dcf3c7388717a6decdc98afe26a9a54b011/README.md) |
+| 2581 | f1d1 | Ledger       | HW1 ?                      | [Github](https://github.com/LedgerHQ/openpgp-card-app/blob/64662c181f4c906288564cbfadc2db53df4534b0/src/sdk/usbd_impl.c) |
 | 2b24 | All  | KeepKey      | Bitcoin Wallet             | [Linux-usb.org](http://www.linux-usb.org/usb.ids) |
-| 2c97 | All  | Ledger       | Ledger Nano S, X and Blue  | [Linux-usb.org](http://www.linux-usb.org/usb.ids) |
+| 2c97 | All  | Ledger       | Ledger HW2, Nano S, Aramis, X and Blue  | [Linux-usb.org](http://www.linux-usb.org/usb.ids) |
 | 2f48 | 2130 | D'CENT       | Biometric Wallet           | [Github](https://github.com/DcentWallet/user-manual/blob/95a219e02c966f05a3d97b03404bef106580df10/biometric-wallet/firmware-update/firmware-trouble-shooting-windows.md) |
 | 534c | 0001 | SatoshiLabs  | Trezor v1                  | [Github](https://github.com/trezor/trezor-suite/blob/130b17ff0d52b67079d29b4e7250637528be1def/packages/suite-native/android/app/src/main/res/xml/devices.xml) |
 | d13e | cc10 | CoinKite     | ColdCard                   | [Github](https://github.com/Coldcard/firmware/search?q=pid) |
@@ -86,7 +87,7 @@ Provided here for examiners who may have to search a scene for exhibits.
 | Bitlox | ![Ultimate](Images/BITLOX-Ultimate.png) <br/> Ultimate |
 | Prokey | ![Optimum](Images/PROKEY-Optimum.png) <br/> Optimum |
 | Secalot | ![Dongle](Images/SECALOT-Dongle.png) <br/> Dongle |
-| Feitian | ![JuBiter Blade](Images/FEITIAN-Jubiter-Blade.png) <br/> JuBiter Blade |
+| Feitian | ![JuBiter Blade](Images/FEITIAN-Jubiter-Blade.png) <br/> JuBiter Blade |	
 
 ### Sources
 

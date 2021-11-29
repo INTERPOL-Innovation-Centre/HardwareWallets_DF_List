@@ -28,12 +28,12 @@ Forensics examiners may use this list to identify if such a device has been seen
 | 1209 | 9999 | Opolo        | Cosmos Firmware            | [pid.codes](https://pid.codes/1209/) |
 | 2341 | 003d | Bitlox       | Ultimate aka lockbox 3A8C  | [Github](https://github.com/BitLox/bitlox-firmware/blob/074f009b5052b3df0c7f562649d393cfaa3e1dd1/.settings/org.eclipse.cdt.core.prefs) |
 | 2341 | 003e | Bitlox       | Ultimate aka lockbox       | [Github](https://github.com/BitLox/bitlox-firmware/blob/074f009b5052b3df0c7f562649d393cfaa3e1dd1/.settings/org.eclipse.cdt.core.prefs) |
+| 2581 | 1807 | Ledger       | HW1                        | [Github](https://github.com/LedgerHQ/ledger-starter-iso/blob/b5f02dcf3c7388717a6decdc98afe26a9a54b011/README.md) |
+| 2581 | 1808 | Ledger       | HW1                        | [Github](https://github.com/LedgerHQ/ledger-starter-iso/blob/b5f02dcf3c7388717a6decdc98afe26a9a54b011/README.md) |
 | 2581 | 1b7c | Ledger       | HW1                        | [Github](https://github.com/LedgerHQ/ledger-starter-iso/blob/b5f02dcf3c7388717a6decdc98afe26a9a54b011/README.md) |
 | 2581 | 2b7c | Ledger       | HW1                        | [Github](https://github.com/LedgerHQ/ledger-starter-iso/blob/b5f02dcf3c7388717a6decdc98afe26a9a54b011/README.md) |
 | 2581 | 3b7c | Ledger       | HW1                        | [Github](https://github.com/LedgerHQ/ledger-starter-iso/blob/b5f02dcf3c7388717a6decdc98afe26a9a54b011/README.md) |
 | 2581 | 4b7c | Ledger       | HW1                        | [Github](https://github.com/LedgerHQ/ledger-starter-iso/blob/b5f02dcf3c7388717a6decdc98afe26a9a54b011/README.md) |
-| 2581 | 1807 | Ledger       | HW1                        | [Github](https://github.com/LedgerHQ/ledger-starter-iso/blob/b5f02dcf3c7388717a6decdc98afe26a9a54b011/README.md) |
-| 2581 | 1808 | Ledger       | HW1                        | [Github](https://github.com/LedgerHQ/ledger-starter-iso/blob/b5f02dcf3c7388717a6decdc98afe26a9a54b011/README.md) |
 | 2581 | f1d1 | Ledger       | HW1 ?                      | [Github](https://github.com/LedgerHQ/openpgp-card-app/blob/64662c181f4c906288564cbfadc2db53df4534b0/src/sdk/usbd_impl.c) |
 | 2b24 | All  | KeepKey      | Bitcoin Wallet             | [Linux-usb.org](http://www.linux-usb.org/usb.ids) |
 | 2c97 | All  | Ledger       | Ledger HW2, Nano S, Aramis, X and Blue  | [Linux-usb.org](http://www.linux-usb.org/usb.ids) |
@@ -64,30 +64,30 @@ Provided here for examiners who may have to search a scene for exhibits.
   
 | Brand | Model |
 | :-------- | :--: |
-| NGRAVE | ![NGRAVE Zero Hardware Wallet](Images/NGRAVE-Zero.png) <br/> NGrave Zero |
-| LEDGER | ![Ledger HW1](Images/LEDGER-HW1.png) <br/> HW1|
-| LEDGER | ![Ledger Nano S](Images/LEDGER-Nano-S.png) <br/> Nano S |
-| LEDGER | ![Ledger Nano X](Images/LEDGER-Nano-X.png) <br/> Nano X |
-| LEDGER | ![Ledger Nano Blue](Images/LEDGER-Nano-Blue.png) <br/> Nano Blue |
-| TREZOR | ![Trezor One](Images/TREZOR-Model-One.png) <br/> Model One |
-| TREZOR | ![Trezor T](Images/TREZOR-Model-T.png) <br/> Model T or "v2" |
-| SecuX | ![SecuX W10](Images/SECUX-W10.png) <br/> W10 |
-| SecuX | ![SecuX W20](Images/SECUX-W20.png) <br/> W20 |
-| SecuX | ![SecuX V20](Images/SECUX-V20.png) <br/> V20 Front <br/> ![SecuX V20](Images/SECUX-V20-Back.png) <br/> V20 Back |
-| ShapeShift | ![KeepKey](Images/SHAPESHIFT-KeepKey.png) <br/> KeepKey |
-| ShiftCrypto | ![BitBox01](Images/SHIFTCRYPTO-Bitbox01.png) <br/> BitBox 01 aka Digital BitBox |
-| ShiftCrypto | ![BitBox01](Images/SHIFTCRYPTO-Bitbox02.png) <br/> BitBox 02 |
-| CoolBitX | ![CoolWallet S](Images/COOLBITX-Coolwallet-S.png) <br/> CoolWallet S (OKEX branded, but could be Binance and others)|
-| CoolBitX | ![CoolWallet Pro](Images/COOLBITX-Coolwallet-Pro.png) <br/> CoolWallet Pro (Crypto.com branded) |
+| Bitlox | ![Ultimate](Images/BITLOX-Ultimate.png) <br/> Ultimate |
 | Cobo Global | ![Cobo Vault Pro and Essential](Images/COBO-Vault-Pro.png) <br/> Cobo Vault Pro and Essential (aka Keystone Pro) |
 | Coinkite | ![Coldcard](Images/COINKITE-Coldcard.png) <br/> Coldcard |
 | Coinkite | ![OpenDime](Images/COINKITE-OpenDime.png) <br/> OpenDime |
+| CoolBitX | ![CoolWallet Pro](Images/COOLBITX-Coolwallet-Pro.png) <br/> CoolWallet Pro (Crypto.com branded) |
+| CoolBitX | ![CoolWallet S](Images/COOLBITX-Coolwallet-S.png) <br/> CoolWallet S (OKEX branded but could be Binance and others)
 | Ellipal | ![EC01](Images/ELLIPAL-EC01.png) <br/> EC01 |
 | Ellipal | ![Titan](Images/ELLIPAL-Titan.png) <br/> Titane |
-| Bitlox | ![Ultimate](Images/BITLOX-Ultimate.png) <br/> Ultimate |
+| Feitian | ![JuBiter Blade](Images/FEITIAN-Jubiter-Blade.png) <br/> JuBiter Blade |
+| LEDGER | ![Ledger HW1](Images/LEDGER-HW1.png) <br/> HW1|
+| LEDGER | ![Ledger Nano Blue](Images/LEDGER-Nano-Blue.png) <br/> Nano Blue |
+| LEDGER | ![Ledger Nano S](Images/LEDGER-Nano-S.png) <br/> Nano S |
+| LEDGER | ![Ledger Nano X](Images/LEDGER-Nano-X.png) <br/> Nano X |
+| NGRAVE | ![NGRAVE Zero Hardware Wallet](Images/NGRAVE-Zero.png) <br/> NGrave Zero |
 | Prokey | ![Optimum](Images/PROKEY-Optimum.png) <br/> Optimum |
 | Secalot | ![Dongle](Images/SECALOT-Dongle.png) <br/> Dongle |
-| Feitian | ![JuBiter Blade](Images/FEITIAN-Jubiter-Blade.png) <br/> JuBiter Blade |	
+| SecuX | ![SecuX V20](Images/SECUX-V20.png) <br/> V20 Front <br/> ![SecuX V20](Images/SECUX-V20-Back.png) <br/> V20 Back |
+| SecuX | ![SecuX W10](Images/SECUX-W10.png) <br/> W10 |
+| SecuX | ![SecuX W20](Images/SECUX-W20.png) <br/> W20 |
+| ShapeShift | ![KeepKey](Images/SHAPESHIFT-KeepKey.png) <br/> KeepKey |
+| ShiftCrypto | ![BitBox01](Images/SHIFTCRYPTO-Bitbox01.png) <br/> BitBox 01 aka Digital BitBox |
+| ShiftCrypto | ![BitBox01](Images/SHIFTCRYPTO-Bitbox02.png) <br/> BitBox 02 |
+| TREZOR | ![Trezor One](Images/TREZOR-Model-One.png) <br/> Model One |
+| TREZOR | ![Trezor T](Images/TREZOR-Model-T.png) <br/> Model T or "v2" |	
 
 ### Sources
 
@@ -95,8 +95,8 @@ A list of Hardware wallets is available at [https://en.bitcoin.it](https://en.bi
  
 Ledger	https://www.ledger.com/  
 Trezor	https://trezor.io/  
-Keepkey	https://shapeshift.com/keepkey  
-BitBox	https://shiftcrypto.ch/  
+Shapeshift Keepkey	https://shapeshift.com/keepkey  
+Shiftcrypto BitBox	https://shiftcrypto.ch/  
 C∞lWallet (CoolWallet) https://www.coolwallet.io/  
 Cobo Vault https://cobo.com/about?locale=en  
 Cold Card Wallet https://coldcardwallet.com/  

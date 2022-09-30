@@ -62,7 +62,7 @@ Forensics examiners may use this list to identify if such a device has been seen
 - Axell Corporation, Japan. Product: VIPPool Wallet. Sometimes mentioned as "a cold wallet for transfers" but our research tends to show theses are not cold wallets but licensing USB sticks also manufactured by Axell Corporation, Japan as product "[Shalo](https://shalo.jp)". \_VID and \_PID information not found.
 
 ### Pictures
-The below are images from manufacturer website (links above).
+The below are images from the manufacturers' websites (links below).
 Provided here for examiners who may have to search a scene for exhibits.  
   
 | Brand | Model |

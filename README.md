@@ -4,6 +4,9 @@ List of Hardware Wallet vendor IDs and Product IDs to be used for Digital Forens
 The below list may be used for forenscis analysis of a suspect's machine's logs of USB devices connected.  
 List is provided as best-effort and is not exhaustive.  
 
+## Disclaimer
+*Prior to working on this repository and its contents, please make sure your agree to our [disclaimer](https://github.com/INTERPOL-Innovation-Centre/DISCLAIMER)*  
+*Please let us know by opening an [Issue](https://github.com/INTERPOL-Innovation-Centre/HardwareWallets_DF_List/issues) if you want to suggest a new feature or device description or find an error or addition.*
 
 ### Vendors and Products Identifiers
 Below is a list of Vendor and Product IDs as would be found in USB devices logs.  

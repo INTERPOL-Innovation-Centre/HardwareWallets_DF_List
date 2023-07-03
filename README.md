@@ -4,6 +4,9 @@ List of Hardware Wallet vendor IDs and Product IDs to be used for Digital Forens
 The below list may be used for forenscis analysis of a suspect's machine's logs of USB devices connected.  
 List is provided as best-effort and is not exhaustive.  
 
+## Disclaimer
+*Prior to working on this repository and its contents, please make sure your agree to our [disclaimer](https://github.com/INTERPOL-Innovation-Centre/DISCLAIMER)*  
+*Please let us know by opening an [Issue](https://github.com/INTERPOL-Innovation-Centre/HardwareWallets_DF_List/issues) if you want to suggest a new feature or device description or find an error or addition.*
 
 ### Vendors and Products Identifiers
 Below is a list of Vendor and Product IDs as would be found in USB devices logs.  
@@ -43,23 +46,24 @@ Forensics examiners may use this list to identify if such a device has been seen
 
 
 ### Missing or further research required
-- SafePal Ltd. Officially backed-up by Binance. Product: SFP SafePal S1
-- SecuX Technology Inc., Taiwan. Products: W10, W20, V20 Stone
-- Opolo Inc., Hong-Kong and Opolo SARL, Luxembourg. Product: Cosmos. May appear as Interbiometrics (_VID 1209 and _PID 0x1000 to 0x1FFF)  
-- Ngrave.IO NV, Belgium. Product: Zero. Is air-gapped but does have a USB-C for charging and firmware update.
+- **SafePal** Ltd. Officially backed-up by Binance. Product: **SFP SafePal S1**.  
+- **SecuX Technology Inc.**, Taiwan. Products: **W10, W20 and V20 Stone**.  
+- **Opolo Inc.**, Hong-Kong and Opolo SARL, Luxembourg. Product: **Cosmos**. May appear as Interbiometrics (**\_VID 1209 and \_PID 0x1000 to 0x1FFF**).  
+- **Ngrave.IO NV**, Belgium. Product: **Zero**. Is air-gapped but does have a USB-C for charging and firmware update.
+- **Cobo Global Ltd**, Cayman Islands. Products: **Keystone Essential and Keystone Pro** - Cobo Vault is an open source air-gapped HD wallet. It uses USB ONLY for Firmware updates. Cobo Vault uses QRcodes only. The Cobo Hardware is essentially an Android mobile phone based on an ARM Cortex A7 processor. [Hardware schematics](https://github.com/CoboVault/cobo-vault-docs/tree/master/hardware) show that the Keystone device is built on component U201, an MTK processor model MT6580A/WM (same as the Ulefone Note 7). A firmware update using USB would likely leave traces as **\_VID=0x0D28** but this trace could be left by any other hardware based on the MTK ARM Cortex-A7. The Cobo firmware update code uses the Keil MDK and does not seem to be programmed to check the \_PID & \_VID combination. Considering this, digital forensics exploitation of this hardware wallet via JTAG and with [OpenOCD](https://openocd.org) could proove interesting. 
 
 ### Specific no-USB HD Wallets
-- Embedded Agency LLC, Canada and USA. Product: Husky HDW20 - This HD Wallet is only using Wifi, including for OTA Firmware update (Over-The-Air)
-- Cobo Global Ltd, Cayman Islands. Products: Keystone Essential, Keystone Pro - Cobo Vault is an open source air-gapped HD wallet. It is not using USB (other than for Firmware burning). Cobo Vault uses QRcodes only. Its hardware is based on an ARM Cortex A7. Refer to [Github](https://github.com/CoboVault/cobo-vault-docs/tree/master/hardware)
-- Ellipal Ltd., Hong-Kong. Products: EC01 and Titan Cold Wallet. This is an air-gapped wallet. The Firmware update is done via micro SD card inserted in a seperate "security module". The micro-USB port of the security module is only for charging
-- C∞lBitX (CoolBitx), Taiwan. Products: CoolWallet S and CoolWallet Pro. These are Bluetooth only cards, uses NFC to charge. CoolBitX is also the creator of the Sygna Bridge, a compliance tool used as a gateway for the exchange and querying of data accross Financial actors
-- CoinKite Inc., Canada. Products: OpenDime and ColdCard. Although these are air-gapped cards, the ColdCard Firmware update is done in DFU mode via USB
+- **Embedded Agency LLC**, Canada and USA. Product: **Husky HDW20** - This HD Wallet is only using Wifi, including for OTA Firmware update (Over-The-Air)
+
+- **Ellipal Ltd.**, Hong-Kong. Products: **EC01, Titan Mini Cold Wallet and Titan Cold Wallet**. This is an air-gapped wallet. The Firmware update is done via micro SD card inserted in a seperate "security module". The micro-USB port of the security module is only for charging
+- **C∞lBitX (CoolBitx)**, Taiwan. Products: **CoolWallet S and CoolWallet Pro**. These are Bluetooth only cards, uses NFC to charge. CoolBitX is also the creator of the Sygna Bridge, a compliance tool used as a gateway for the exchange and querying of data accross Financial actors
+- **CoinKite Inc.**, Canada. Products: **OpenDime and ColdCard**. Although these are air-gapped cards, the ColdCard Firmware update is done in DFU mode via USB
 
 ### Related hardware
-- Axell Corporation, Japan. Product: VIPPool Wallet. Sometimes mentioned as "a cold wallet for transfers" but our research tends to show theses are not cold wallets but licensing USB sticks also manufactured by Axell Corporation, Japan as product "[Shalo](https://shalo.jp)". \_VID and \_PID information not found.
+- **Axell Corporation**, Japan. Product: **VIPPool Wallet**. Sometimes mentioned as "a cold wallet for transfers" but our research tends to show theses are not cold wallets but licensing USB sticks also manufactured by Axell Corporation, Japan as product **"[Shalo](https://shalo.jp)"**. \_VID and \_PID information not found.
 
 ### Pictures
-The below are images from manufacturer website (links above).
+The below are images from the manufacturers' websites (links below).
 Provided here for examiners who may have to search a scene for exhibits.  
   
 | Brand | Model |
@@ -71,6 +75,7 @@ Provided here for examiners who may have to search a scene for exhibits.
 | CoolBitX | ![CoolWallet Pro](Images/COOLBITX-Coolwallet-Pro.png) <br/> CoolWallet Pro (Crypto.com branded) |
 | CoolBitX | ![CoolWallet S](Images/COOLBITX-Coolwallet-S.png) <br/> CoolWallet S (OKEX branded but could be Binance and others)
 | Ellipal | ![EC01](Images/ELLIPAL-EC01.png) <br/> EC01 |
+| Ellipal | ![Titan](Images/ELLIPAL-Titan-Mini.png) <br/> Titane Mini |
 | Ellipal | ![Titan](Images/ELLIPAL-Titan.png) <br/> Titane |
 | Feitian | ![JuBiter Blade](Images/FEITIAN-Jubiter-Blade.png) <br/> JuBiter Blade |
 | LEDGER | ![Ledger HW1](Images/LEDGER-HW1.png) <br/> HW1|
@@ -99,7 +104,7 @@ Trezor	https://trezor.io/
 Shapeshift Keepkey	https://shapeshift.com/keepkey  
 Shiftcrypto BitBox	https://shiftcrypto.ch/  
 C∞lWallet (CoolWallet) https://www.coolwallet.io/  
-Cobo Vault https://cobo.com/about?locale=en  
+Cobo Vault (Keystone) https://cobo.com/about?locale=en or https://keyst.one  
 Cold Card Wallet https://coldcardwallet.com/  
 Ellipal	https://www.ellipal.com/  
 JuBiter Blade https://www.ftsafe.com/store/product/cryptocurrency-wallet/  

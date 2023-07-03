@@ -55,7 +55,7 @@ Forensics examiners may use this list to identify if such a device has been seen
 ### Specific no-USB HD Wallets
 - **Embedded Agency LLC**, Canada and USA. Product: **Husky HDW20** - This HD Wallet is only using Wifi, including for OTA Firmware update (Over-The-Air)
 
-- **Ellipal Ltd.**, Hong-Kong. Products: **EC01 and Titan Cold Wallet**. This is an air-gapped wallet. The Firmware update is done via micro SD card inserted in a seperate "security module". The micro-USB port of the security module is only for charging
+- **Ellipal Ltd.**, Hong-Kong. Products: **EC01, Titan Mini Cold Wallet and Titan Cold Wallet**. This is an air-gapped wallet. The Firmware update is done via micro SD card inserted in a seperate "security module". The micro-USB port of the security module is only for charging
 - **C∞lBitX (CoolBitx)**, Taiwan. Products: **CoolWallet S and CoolWallet Pro**. These are Bluetooth only cards, uses NFC to charge. CoolBitX is also the creator of the Sygna Bridge, a compliance tool used as a gateway for the exchange and querying of data accross Financial actors
 - **CoinKite Inc.**, Canada. Products: **OpenDime and ColdCard**. Although these are air-gapped cards, the ColdCard Firmware update is done in DFU mode via USB
 
@@ -75,6 +75,7 @@ Provided here for examiners who may have to search a scene for exhibits.
 | CoolBitX | ![CoolWallet Pro](Images/COOLBITX-Coolwallet-Pro.png) <br/> CoolWallet Pro (Crypto.com branded) |
 | CoolBitX | ![CoolWallet S](Images/COOLBITX-Coolwallet-S.png) <br/> CoolWallet S (OKEX branded but could be Binance and others)
 | Ellipal | ![EC01](Images/ELLIPAL-EC01.png) <br/> EC01 |
+| Ellipal | ![Titan](Images/ELLIPAL-Titan-Mini.png) <br/> Titane Mini |
 | Ellipal | ![Titan](Images/ELLIPAL-Titan.png) <br/> Titane |
 | Feitian | ![JuBiter Blade](Images/FEITIAN-Jubiter-Blade.png) <br/> JuBiter Blade |
 | LEDGER | ![Ledger HW1](Images/LEDGER-HW1.png) <br/> HW1|

@@ -85,7 +85,7 @@ Provided here for examiners who may have to search a scene for exhibits.
 | LEDGER | ![Ledger Nano S Plus](Images/LEDGER-Nano-S-Plus.png) <br/> Nano S Plus|
 | NGRAVE | ![NGRAVE Zero Hardware Wallet](Images/NGRAVE-Zero.png) <br/> NGrave Zero |
 | Prokey | ![Optimum](Images/PROKEY-Optimum.png) <br/> Optimum |
-| Secalot | ![Dongle](Images/SECALOT-Dongle.png) <br/> Dongle |
+| Secalot | ![Dongle](Images/SECALOT-Dongle.png) <br/> Dongle (discontinued)|
 | SecuX | ![SecuX V20](Images/SECUX-V20.png) <br/> V20 Front <br/> ![SecuX V20](Images/SECUX-V20-Back.png) <br/> V20 Back |
 | SecuX | ![SecuX W10](Images/SECUX-W10.png) <br/> W10 |
 | SecuX | ![SecuX W20](Images/SECUX-W20.png) <br/> W20 |

@@ -42,6 +42,7 @@ Forensics examiners may use this list to identify if such a device has been seen
 | 2c97 | All  | Ledger       | Ledger HW2, Nano S, Aramis, X and Blue  | [Linux-usb.org](http://www.linux-usb.org/usb.ids) and [Github](https://github.com/LedgerHQ/udev-rules/blob/2776324af6df36c2af4d2e8e92a1c98c281117c9/add_udev_rules.sh) |
 | 2f48 | 2130 | D'CENT       | Biometric Wallet           | [Github](https://github.com/DcentWallet/user-manual/blob/95a219e02c966f05a3d97b03404bef106580df10/biometric-wallet/firmware-update/firmware-trouble-shooting-windows.md) |
 | 534c | 0001 | SatoshiLabs  | Trezor v1                  | [Github](https://github.com/trezor/trezor-suite/blob/130b17ff0d52b67079d29b4e7250637528be1def/packages/suite-native/android/app/src/main/res/xml/devices.xml) |
+| 0483 | 5740 | Open Source | Open Source Trezor         | [ST Electronics driver recomendations](https://os.mbed.com/forum/platform-168-ST-Nucleo-F429ZI-community/topic/36186/?page=1#comment-63221) |
 | d13e | cc10 | CoinKite     | ColdCard                   | [Github](https://github.com/Coldcard/firmware/search?q=pid) |
 
 
@@ -94,6 +95,7 @@ Provided here for examiners who may have to search a scene for exhibits.
 | ShiftCrypto | ![BitBox01](Images/SHIFTCRYPTO-Bitbox02.png) <br/> BitBox 02 |
 | TREZOR | ![Trezor One](Images/TREZOR-Model-One.png) <br/> Model One |
 | TREZOR | ![Trezor T](Images/TREZOR-Model-T.png) <br/> Model T or "v2" |	
+| [Open Source TREZOR Dev Kit](https://mcudev.github.io/trezor-model-t-dev-kit/) | ![Trezor Dev Kit](Images/TREZOR-DevKit1.png) ![Trezor Dev Kit](Images/TREZOR-DevKit2.png) <br/> Open Source Dev Kit |	
 
 ### Sources
 
@@ -101,6 +103,7 @@ A list of Hardware wallets is available at [https://en.bitcoin.it](https://en.bi
  
 Ledger	https://www.ledger.com/  
 Trezor	https://trezor.io/  
+Open Source Trezor Dev Kit   https://mcudev.github.io/trezor-model-t-dev-kit/  
 Shapeshift Keepkey	https://shapeshift.com/keepkey  
 Shiftcrypto BitBox	https://shiftcrypto.ch/  
 C∞lWallet (CoolWallet) https://www.coolwallet.io/  

@@ -40,6 +40,12 @@ Forensics examiners may use this list to identify if such a device has been seen
 | 2581 | f1d1 | Ledger       | HW1? Or Ledger Nano S Plus | [Github](https://github.com/LedgerHQ/openpgp-card-app/blob/64662c181f4c906288564cbfadc2db53df4534b0/src/sdk/usbd_impl.c) |
 | 2b24 | All  | KeepKey      | Bitcoin Wallet             | [Linux-usb.org](http://www.linux-usb.org/usb.ids) |
 | 2c97 | All  | Ledger       | Ledger HW2, Nano S, Aramis, X and Blue  | [Linux-usb.org](http://www.linux-usb.org/usb.ids) and [Github](https://github.com/LedgerHQ/udev-rules/blob/2776324af6df36c2af4d2e8e92a1c98c281117c9/add_udev_rules.sh) |
+| 2c97 | 1000  | Ledger       | Ledger Nano S  | [Github](https://github.com/LedgerHQ/ledger-secure-sdk/blob/fe169b19c7445f2477c26035a827c22ba9f84964/lib_stusb_impl/usbd_impl.c#L139) |
+| 2c97 | 3000  | Ledger       | Ledger HW2  | [Github](https://github.com/LedgerHQ/ledger-secure-sdk/blob/fe169b19c7445f2477c26035a827c22ba9f84964/lib_stusb_impl/usbd_impl.c#L159) |
+| 2c97 | 4000  | Ledger       | Ledger Nano X  | [Github](https://github.com/LedgerHQ/ledger-secure-sdk/blob/fe169b19c7445f2477c26035a827c22ba9f84964/lib_stusb_impl/usbd_impl.c#L172) |
+| 2c97 | 5000  | Ledger       | Ledger Nano S Plus  | [Github](https://github.com/LedgerHQ/ledger-secure-sdk/blob/fe169b19c7445f2477c26035a827c22ba9f84964/lib_stusb_impl/usbd_impl.c#L188) |
+| 2c97 | 6000  | Ledger       | Ledger Nano Stax  | [Github](https://github.com/LedgerHQ/ledger-secure-sdk/blob/fe169b19c7445f2477c26035a827c22ba9f84964/lib_stusb_impl/usbd_impl.c#L209) |
+| 2c97 | 7000  | Ledger       | Ledger Nano Flex  | [Github](https://github.com/LedgerHQ/ledger-secure-sdk/blob/fe169b19c7445f2477c26035a827c22ba9f84964/lib_stusb_impl/usbd_impl.c#L230) |
 | 2f48 | 2130 | D'CENT       | Biometric Wallet           | [Github](https://github.com/DcentWallet/user-manual/blob/95a219e02c966f05a3d97b03404bef106580df10/biometric-wallet/firmware-update/firmware-trouble-shooting-windows.md) |
 | 534c | 0001 | SatoshiLabs  | Trezor v1                  | [Github](https://github.com/trezor/trezor-suite/blob/130b17ff0d52b67079d29b4e7250637528be1def/packages/suite-native/android/app/src/main/res/xml/devices.xml) |
 | 0483 | 5740 | Open Source | Open Source Trezor         | [ST Electronics driver recomendations](https://os.mbed.com/forum/platform-168-ST-Nucleo-F429ZI-community/topic/36186/?page=1#comment-63221) |
@@ -85,6 +91,8 @@ Provided here for examiners who may have to search a scene for exhibits.
 | LEDGER | ![Ledger Nano S](Images/LEDGER-Nano-S.png) <br/> Nano S |
 | LEDGER | ![Ledger Nano X](Images/LEDGER-Nano-X.png) <br/> Nano X |
 | LEDGER | ![Ledger Nano S Plus](Images/LEDGER-Nano-S-Plus.png) <br/> Nano S Plus|
+| LEDGER | ![Ledger Flex](Images/LEDGER-Flex.png) <br/> Flex|
+| LEDGER | ![Ledger Stax](Images/LEDGER-Stax.png) <br/> Stax|
 | NGRAVE | ![NGRAVE Zero Hardware Wallet](Images/NGRAVE-Zero.png) <br/> NGrave Zero |
 | Prokey | ![Optimum](Images/PROKEY-Optimum.png) <br/> Optimum |
 | Secalot | ![Dongle](Images/SECALOT-Dongle.png) <br/> Dongle (discontinued)|

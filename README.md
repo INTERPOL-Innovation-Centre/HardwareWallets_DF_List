@@ -75,6 +75,7 @@ Provided here for examiners who may have to search a scene for exhibits.
 | Coinkite | ![OpenDime](Images/COINKITE-OpenDime.png) <br/> OpenDime |
 | CoolBitX | ![CoolWallet Pro](Images/COOLBITX-Coolwallet-Pro.png) <br/> CoolWallet Pro (Crypto.com branded) |
 | CoolBitX | ![CoolWallet S](Images/COOLBITX-Coolwallet-S.png) <br/> CoolWallet S (OKEX branded but could be Binance and others)
+| Cryptnox | ![Cryptnox card](Images/CRYPTNOX-card.png) <br/> Cryptnox card |
 | Ellipal | ![EC01](Images/ELLIPAL-EC01.png) <br/> EC01 |
 | Ellipal | ![Titan](Images/ELLIPAL-Titan-Mini.png) <br/> Titane Mini |
 | Ellipal | ![Titan](Images/ELLIPAL-Titan.png) <br/> Titane |
@@ -93,7 +94,7 @@ Provided here for examiners who may have to search a scene for exhibits.
 | ShapeShift | ![KeepKey](Images/SHAPESHIFT-KeepKey.png) <br/> KeepKey |
 | ShiftCrypto | ![BitBox01](Images/SHIFTCRYPTO-Bitbox01.png) <br/> BitBox 01 aka Digital BitBox |
 | ShiftCrypto | ![BitBox01](Images/SHIFTCRYPTO-Bitbox02.png) <br/> BitBox 02 |
-| TREZOR | ![Trezor One](Images/TREZOR-Model-One.png) <br/> Model One |
+| TANGEM | ![Tangem Cards and Ring](Images/TANGEM-ring-cards.avif) <br/> Cards and Ring |
 | TREZOR | ![Trezor T](Images/TREZOR-Model-T.png) <br/> Model T or "v2" |	
 | [Open Source TREZOR Dev Kit](https://mcudev.github.io/trezor-model-t-dev-kit/) | ![Trezor Dev Kit](Images/TREZOR-DevKit1.png) ![Trezor Dev Kit](Images/TREZOR-DevKit2.png) <br/> Open Source Dev Kit |	
 
@@ -103,12 +104,14 @@ A list of Hardware wallets is available at [https://en.bitcoin.it](https://en.bi
  
 Ledger	https://www.ledger.com/  
 Trezor	https://trezor.io/  
+Tangem	https://tangem.com/  
 Open Source Trezor Dev Kit   https://mcudev.github.io/trezor-model-t-dev-kit/  
 Shapeshift Keepkey	https://shapeshift.com/keepkey  
 Shiftcrypto BitBox	https://shiftcrypto.ch/  
 C∞lWallet (CoolWallet) https://www.coolwallet.io/  
 Cobo Vault (Keystone) https://cobo.com/about?locale=en or https://keyst.one  
 Cold Card Wallet https://coldcardwallet.com/  
+Cryptnox	https://cryptnox.com/  	  
 Ellipal	https://www.ellipal.com/  
 JuBiter Blade https://www.ftsafe.com/store/product/cryptocurrency-wallet/  
 SafeWize CoinSafe https://safewise.io/#/home  

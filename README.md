@@ -102,6 +102,7 @@ Provided here for examiners who may have to search a scene for exhibits.
 | ShapeShift | ![KeepKey](Images/SHAPESHIFT-KeepKey.png) <br/> KeepKey |
 | ShiftCrypto | ![BitBox01](Images/SHIFTCRYPTO-Bitbox01.png) <br/> BitBox 01 aka Digital BitBox |
 | ShiftCrypto | ![BitBox01](Images/SHIFTCRYPTO-Bitbox02.png) <br/> BitBox 02 |
+| ShiftCrypto | ![BitBox01](Images/SHIFTCRYPTO-Bitbox02Nova.png) <br/> BitBox 02 Nova |
 | TANGEM | ![Tangem Cards and Ring](Images/TANGEM-ring-cards.avif) <br/> Cards and Ring |
 | TREZOR | ![Trezor T](Images/TREZOR-Model-T.png) <br/> Model T or "v2" |	
 | [Open Source TREZOR Dev Kit](https://mcudev.github.io/trezor-model-t-dev-kit/) | ![Trezor Dev Kit](Images/TREZOR-DevKit1.png) ![Trezor Dev Kit](Images/TREZOR-DevKit2.png) <br/> Open Source Dev Kit |	
@@ -115,7 +116,7 @@ Trezor	https://trezor.io/
 Tangem	https://tangem.com/  
 Open Source Trezor Dev Kit   https://mcudev.github.io/trezor-model-t-dev-kit/  
 Shapeshift Keepkey	https://shapeshift.com/keepkey  
-Shiftcrypto BitBox	https://shiftcrypto.ch/  
+Shiftcrypto AG BitBox	https://shiftcrypto.ch/  
 C∞lWallet (CoolWallet) https://www.coolwallet.io/  
 Cobo Vault (Keystone) https://cobo.com/about?locale=en or https://keyst.one  
 Cold Card Wallet https://coldcardwallet.com/  

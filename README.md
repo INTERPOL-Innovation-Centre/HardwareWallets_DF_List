@@ -14,8 +14,9 @@ Forensics examiners may use this list to identify if such a device has been seen
 
 | _VID(0x) | _PID(0x) | Vendor name | Device desc. | Attribution URI |
 | :------- | :------- | :----------- | :---------- | --------------- |
-| 03eb | 2402 | ShiftCrypto  | BitBox01 (DigitalBitBox)   | [shiftcrypto.com](https://shiftcrypto.support/help/en-us/9-troubleshooting/15-usb-connection-issues-my-bitbox02-is-not-detected) |
-| 03eb | 2403 | ShiftCrypto  | BitBox02                   | [shiftcrypto.com](https://shiftcrypto.support/help/en-us/9-troubleshooting/15-usb-connection-issues-my-bitbox02-is-not-detected) |
+| 03eb | 2402 | ShiftCrypto  | BitBox01 (DigitalBitBox)   | [shiftcrypto.com](https://github.com/BitBoxSwiss/bitbox-wallet-app/blob/master/frontends/qt/resources/deb-afterinstall.sh) |
+| 03eb | 2403 | ShiftCrypto  | BitBox02                   | [shiftcrypto.com](https://support.bitbox.swiss/bitbox02-Troubleshooting/bitbox-not-recognized-windows) |
+| 03eb | 2403 | ShiftCrypto  | BitBox02 Nova              | [shiftcrypto.com](https://github.com/BitBoxSwiss/bitbox-wallet-app/blob/master/frontends/qt/resources/deb-afterinstall.sh) |
 | 096e | 0891 | Feitian Tech | JuBiter Blade              | [Github](https://github.com/search?q=user%3AJubiterWallet+VID&type=code) |
 | 1209 | aaaa | Prokey       | Optimum                    | [Github](https://github.com/prokey-io/prokey-optimum-firmware/blob/a0ad6a323a4e51dd1d2d09d7e2786b6f5c65d575/firmware/usb.c) |
 | 1209 | abba | Generic      | SafeWISE CoinSafe          | [Linux-usb.org](http://www.linux-usb.org/usb.ids) |
@@ -101,8 +102,8 @@ Provided here for examiners who may have to search a scene for exhibits.
 | SecuX | ![SecuX W20](Images/SECUX-W20.png) <br/> W20 |
 | ShapeShift | ![KeepKey](Images/SHAPESHIFT-KeepKey.png) <br/> KeepKey |
 | ShiftCrypto | ![BitBox01](Images/SHIFTCRYPTO-Bitbox01.png) <br/> BitBox 01 aka Digital BitBox |
-| ShiftCrypto | ![BitBox01](Images/SHIFTCRYPTO-Bitbox02.png) <br/> BitBox 02 |
-| ShiftCrypto | ![BitBox01](Images/SHIFTCRYPTO-Bitbox02Nova.png) <br/> BitBox 02 Nova |
+| ShiftCrypto | ![BitBox02](Images/SHIFTCRYPTO-Bitbox02.png) <br/> BitBox 02 |
+| ShiftCrypto | ![BitBox02Nova](Images/SHIFTCRYPTO-Bitbox02Nova.png) <br/> BitBox 02 Nova |
 | TANGEM | ![Tangem Cards and Ring](Images/TANGEM-ring-cards.avif) <br/> Cards and Ring |
 | TREZOR | ![Trezor T](Images/TREZOR-Model-T.png) <br/> Model T or "v2" |	
 | [Open Source TREZOR Dev Kit](https://mcudev.github.io/trezor-model-t-dev-kit/) | ![Trezor Dev Kit](Images/TREZOR-DevKit1.png) ![Trezor Dev Kit](Images/TREZOR-DevKit2.png) <br/> Open Source Dev Kit |	
